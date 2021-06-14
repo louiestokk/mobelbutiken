@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "title": "queen panel bed",
+      "price": 10.99,
+      "image": "./images/product-1.jpeg"
+    },
+
+    {
+      "title": "king panel bed",
+      "price": 12.99,
+      "image": "./images/product-2.jpeg"
+    },
+
+    {
+      "title": "single panel bed",
+      "price": 12.99,
+      "image": "./images/product-3.jpeg"
+    },
+
+    {
+      "title": "twin panel bed",
+      "price": 22.99,
+      "image": "./images/product-4.jpeg"
+    },
+    {
+      "title": "fridge",
+      "price": 88.99,
+      "image": "./images/product-5.jpeg"
+    },
+    {
+      "title": "dresser",
+      "price": 32.99,
+      "image": "./images/product-6.jpeg"
+    },
+    {
+      "title": "couch",
+      "price": 45.99,
+      "image": "./images/product-7.jpeg"
+    },
+    {
+      "title": "table",
+      "price": 33.99,
+      "image": "./images/product-8.jpeg"
+    },
+    {
+      "title": "divan sofa",
+      "price": 233.99,
+      "image": "./images/product-9.jpeg"
+    },
+    {
+      "title": "modern sofa",
+      "price": 333.99,
+      "image": "./images/product-10.jpeg"
+    }
+  ]
+}
